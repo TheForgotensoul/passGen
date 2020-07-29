@@ -18,7 +18,8 @@
 
 ### 🏠 [Homepage](https://github.com/TheForgotensoul/passGen)
 
-### ✨ [Demo](https://github.com/TheForgotensoul/passGen)
+### ✨ [Demo](https://raw.githubusercontent.com/TheForgotensoul/passGen/master/demo.png)
+![Demo](https://raw.githubusercontent.com/TheForgotensoul/passGen/master/demo.png)
 
 ## Install
 
